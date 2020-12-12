@@ -1,0 +1,41 @@
+body{
+  background-image: linear-gradient(grey,white);
+  font-family: 'Courier New', Courier, monospace;
+  background-repeat: none;
+}
+  
+#choices{
+  list-style-type:none;
+
+}
+#audio{
+  display:none;
+}
+
+#play{
+  float: none;
+}
+#prev{
+  float:left;
+
+}
+#next{
+  float:right
+
+}
+
+
+#player{
+  background-color:#782920 ;
+  height:75vh;
+  width:50%;
+  margin-left:400px;
+  text-align: center;
+  opacity:0.8;
+  border-radius: 20px;
+  
+
+}
+#controls{
+  display:inline;
+}
